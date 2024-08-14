@@ -4,9 +4,3 @@ h2 {
 p {
     font-family: Arial;
 }
-.container img="tt.jpg" {
-    max-width:200px;
-    max-height:150px;
-    width: auto;
-    height: auto;
-}
