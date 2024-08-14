@@ -4,3 +4,8 @@ h2 {
 p {
     font-family: Arial;
 }
+div#logo img{
+    position:absolute;
+    max-width:250px;
+    top:0px;
+}
